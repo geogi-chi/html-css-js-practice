@@ -5,4 +5,4 @@ inspire by [180 websites](https://jenniferdewalt.com/),
 
 ---
 
-[day1](day1)
+[day1](https://szchixy.github.io/html-css-js-practice/day1)
