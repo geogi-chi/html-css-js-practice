@@ -7,7 +7,7 @@ body {
   margin: 0;
 }
 
-#container {
+#app {
   padding: 100px 50px;
 }
 
@@ -16,11 +16,7 @@ header {
   min-width: 350px;
 }
 
-a.return:link{
-  color: var(--return-visited);
-}
-
-a.return:visited {
+a.return {
   color: var(--return-visited);
 }
 

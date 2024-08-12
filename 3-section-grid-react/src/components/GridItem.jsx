@@ -1,7 +1,7 @@
 export const GridItem = (props) => {
   const num = props.num
   return (
-    <a className='grid-item' href='../../'>
+    <a className='grid-item'>
       <div className='in ul'>
         <p>{num}</p>
       </div>

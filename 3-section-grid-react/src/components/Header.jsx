@@ -2,7 +2,7 @@ export const Header = () => {
   return (
     <header>
       <h1>
-        <a class='return' href='../'>
+        <a className='return' href='../../'>
           ↑
         </a>
         <br />
