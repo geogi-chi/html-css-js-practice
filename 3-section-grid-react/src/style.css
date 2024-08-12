@@ -1,4 +1,6 @@
 :root {
+  --return-visited: #c6c6c6;
+  --return-hover: #9ee69e;
   --c-pad-u: 100px;
   --c-pad-l: 50px;
   --i-gap: 20px;
@@ -18,6 +20,18 @@ body {
 header {
   text-align: center;
   min-width: var(--i-size);
+}
+
+a.return:link{
+  color: var(--return-visited);
+}
+
+a.return:visited {
+  color: var(--return-visited);
+}
+
+a.return:hover {
+  color: var(--return-hover);
 }
 
 .grid-part {
