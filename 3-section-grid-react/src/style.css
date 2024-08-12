@@ -11,7 +11,7 @@ body {
   margin: 0;
 }
 
-#container {
+#app {
   padding: var(--c-pad-u) var(--c-pad-l);
 }
 

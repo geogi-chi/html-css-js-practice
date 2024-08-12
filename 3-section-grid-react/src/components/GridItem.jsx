@@ -1,9 +1,9 @@
 export const GridItem = (props) => {
-  const idx = props.idx
+  const num = props.num
   return (
-    <a className='grid-item' href='../../' key={idx}>
+    <a className='grid-item' href='../../'>
       <div className='in ul'>
-        <p>{idx}</p>
+        <p>{num}</p>
       </div>
       <div className='in ur'>
         <p>wifi</p>
